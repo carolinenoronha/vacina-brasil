@@ -1,0 +1,16 @@
+body{
+    background-color: turquoise;
+    text-align: center;
+}
+
+#titulo{
+    font-family: Impact;
+    color: whitesmoke;
+    padding: 10px;
+
+}
+
+#legenda{
+    font-family: Arial;
+    color: whitesmoke;
+}
