@@ -56,7 +56,6 @@ d3.csv("https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-st
 });
 
 
-
 let legenda = document.getElementById('legenda')
 legenda.innerText = `O Brasil vacinou ${vacinadosDiferenca} pessoas nas últimas 24h.`
 
