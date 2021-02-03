@@ -4,4 +4,4 @@
 
 #### Para o tratamento dos dados, bem como a plotagem dos gráficos, são utilizados, respectivamente, d3.js e Chart.js.
 
-#### - Link para o Github Pages do projeto [https://carolinenoronha.github.io/vacina-brasil/]
+#### - [Link para o Github Pages do projeto](https://carolinenoronha.github.io/vacina-brasil/)
